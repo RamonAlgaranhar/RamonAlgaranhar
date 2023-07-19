@@ -25,4 +25,8 @@
 
 ## Apaixonado por tecnologia 💖
 
-  ![Snake animation](https://github.com/RamonAlgaranhar/RamonAlgaranhar/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
