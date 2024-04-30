@@ -2,7 +2,7 @@
 
 👨‍💻 - Hoje trabalho com front-end
 
-📝 - Estudando PHP e banco de dados com MySQL
+📝 - Estudando Python e banco de dados com Django
 
 ![RamonAlgaranhar GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonAlgaranhar&show_icons=true&theme=radical)
 
@@ -15,8 +15,8 @@
     <img align-items="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img align-items="center" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
     <img align-items="center" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img align-items="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img align-items="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img align-items="center" alt="Python" src="[https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)"/>
+    <img align-items="center" alt="Django" src="[https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)"/>
 </div>
 
 ### Contatos Profissionais 
